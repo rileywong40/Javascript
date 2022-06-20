@@ -1,0 +1,25 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Self learning",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rileywong40/Javascript.git"
+  },
+  "author": "rileywong40",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rileywong40/Javascript/issues"
+  },
+  "homepage": "https://github.com/rileywong40/Javascript#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
