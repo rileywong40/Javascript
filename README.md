@@ -4,8 +4,8 @@ Record how I self-learn javascript
 Why Javascript ?
 
 
-Learning objectives:
-data type
 
-Projects:
-1) 
+Data type: object, array
+
+JS style
+Arrow function expression
